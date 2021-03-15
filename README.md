@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some troubles with the rendering of tweets in the layout part. The text views were stacked on top of each other and could not be moved. The issue had to do with the parameters in the relative layout being not wrap-content.
 
 ## Open-source libraries used
 
